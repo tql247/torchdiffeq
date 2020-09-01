@@ -3,3 +3,7 @@
 *.egg
 *__pycache__*
 .vscode
+*.png*
+*.jpg*
+*images-idx3*
+*ubyte*
